@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Built artifact — rebuild with: python seed/seed_wine_world.py
+*.duckdb
+*.duckdb.wal
+
+# OS / editor
+.DS_Store

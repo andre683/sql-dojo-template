@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "wine-dojo",
+      "driver": "DuckDB",
+      "databaseFilePath": "${workspaceFolder}/wine.duckdb",
+      "previewLimit": 50
+    }
+  ]
+}
